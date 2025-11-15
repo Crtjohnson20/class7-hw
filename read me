@@ -1,0 +1,8 @@
+building an amazon Linux ec2 with a custom script
+templates https://github.com/MookieWAF/bmc4/blob/main/ec2scrpit
+
+create new security group, dont use default
+create ec2
+copy public DNS and make it into a usable link
+
+http://ec2-3-131-133-132.us-east-2.compute.amazonaws.com
